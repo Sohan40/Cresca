@@ -41,7 +41,7 @@ const MiddleComponent = () => {
           variants={textVariants}
           className='text-5xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-gray-900 to-gray-600 mb-4'
         >
-          India's First Merit-Driven
+          India&apos;s First Merit-Driven
         </motion.h1>
         <motion.h1 
           variants={textVariants}
