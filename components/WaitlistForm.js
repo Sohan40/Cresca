@@ -60,7 +60,7 @@ const WaitlistForm = () => {
       </form>
       {status === 'success' && (
         <p className="text-green-600 text-center mt-4">
-          Thanks for joining! We'll keep you updated.
+          Thanks for joining! We&apos;ll keep you updated.
         </p>
       )}
       {status === 'error' && (

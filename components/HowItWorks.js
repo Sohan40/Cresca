@@ -15,7 +15,7 @@ const HowItWorks = () => {
                 1. Post a Job
               </div>
               <p className="text-gray-600 text-sm md:text-base">
-                Quickly publish a role your startup needs, targeting exactly who you're searching for.
+                Quickly publish a role your startup needs, targeting exactly who you&apos;re searching for.
               </p>
             </div>
             <div className="bg-gray-50 p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow duration-300">
@@ -23,7 +23,7 @@ const HowItWorks = () => {
                 2. Get AI-Matched Candidates
               </div>
               <p className="text-gray-600 text-sm md:text-base">
-                Instantly see a shortlist ranked with the most relevant profiles, powered by Cresca's proprietary AI.
+                Instantly see a shortlist ranked with the most relevant profiles, powered by Cresca&apos;s proprietary AI.
               </p>
             </div>
             <div className="bg-gray-50 p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow duration-300">
